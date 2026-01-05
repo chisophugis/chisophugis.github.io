@@ -2,6 +2,8 @@
 
 "Compiler Engineering in Practice" is a blog series intended to pass on wisdom that seemingly every seasoned compiler developer knows, but is not systematically written down in any textbook or online resource. Some (but not much) prior experience with compilers is needed.
 
+Next post: [Part 2: Why is a compiler?]({% post_url 2026-01-04-compiler-engineering-in-practice-part-2-why-is-a-compiler %})
+
 ## What is a compiler?
 
 The first and most important question is “what is a compiler?”. In short, a compiler is:
